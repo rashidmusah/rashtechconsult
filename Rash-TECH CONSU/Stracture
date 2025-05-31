@@ -1,0 +1,9 @@
+/rash-tech-consu/
+│
+├── index.html          <!-- Home Page -->
+├── services.html       <!-- Services Page -->
+├── blog.html           <!-- Blog Section -->
+├── contact.html        <!-- Contact Page -->
+├── css/
+│   └── style.css       <!-- Custom Styles -->
+└── assets/             <!-- (Optional) For images & other assets -->
